@@ -1,1 +1,6 @@
 Testing version 1.1
+--Ok, mamy plik wrzucony, czas dopisać jakieś zmiany!
+void main()
+{
+ //Mój zajebisty kod!
+}
